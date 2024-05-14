@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "856170579525",
+    "project_id": "ktgk-538f9",
+    "storage_bucket": "ktgk-538f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856170579525:android:b7791ca4deccc659d7c52c",
+        "android_client_info": {
+          "package_name": "com.addjobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd7HTF07rtLwb2aV9L15imcEOcJSKyQZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856170579525:android:aea6319e235dfec6d7c52c",
+        "android_client_info": {
+          "package_name": "com.ktgk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd7HTF07rtLwb2aV9L15imcEOcJSKyQZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856170579525:android:71f70949e56d0a51d7c52c",
+        "android_client_info": {
+          "package_name": "com.votuan146"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd7HTF07rtLwb2aV9L15imcEOcJSKyQZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
